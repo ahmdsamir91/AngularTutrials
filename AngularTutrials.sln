@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTutrials", "AngularTutrials\AngularTutrials.csproj", "{413173A5-A28A-4837-ACDE-F5A5674F09DE}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Angular.Heroes.Backend.Services", "Angular.Heroes.Backend.Services\Angular.Heroes.Backend.Services.xproj", "{34BFBBCC-20F7-4FA6-930B-7C04B1E4611C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Angular.Heroes.Backend.Services.Mockdata", "Angular.Heroes.Backend.Services.Mockdata\Angular.Heroes.Backend.Services.Mockdata.xproj", "{23BA7BDD-C428-4241-B257-9A359D7A01DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{413173A5-A28A-4837-ACDE-F5A5674F09DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413173A5-A28A-4837-ACDE-F5A5674F09DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{413173A5-A28A-4837-ACDE-F5A5674F09DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BFBBCC-20F7-4FA6-930B-7C04B1E4611C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BFBBCC-20F7-4FA6-930B-7C04B1E4611C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BFBBCC-20F7-4FA6-930B-7C04B1E4611C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BFBBCC-20F7-4FA6-930B-7C04B1E4611C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BA7BDD-C428-4241-B257-9A359D7A01DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BA7BDD-C428-4241-B257-9A359D7A01DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BA7BDD-C428-4241-B257-9A359D7A01DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BA7BDD-C428-4241-B257-9A359D7A01DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
